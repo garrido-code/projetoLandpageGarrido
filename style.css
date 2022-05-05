@@ -1,0 +1,180 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    background-color:aliceblue;
+}
+
+.img-logo{
+    width: 50px;
+    height: 130px;
+    display: flex;
+    margin-top:-15px;  
+    margin-left: 30px;
+}
+
+.menu{
+    margin-left: 65%;
+    margin-top: -6%;
+    max-width: 450px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-weight:600;
+    font-size: 15px;
+    list-style-type: none;
+    border: 4px blueviolet solid;
+
+}
+
+li{
+    display: inline;
+}
+
+a{
+    text-decoration:none;
+    color:blueviolet;
+    font-size: 17px;
+}
+#texto-cima{
+    display: inline-table;
+}
+.texto-cima{
+    color: rgb(139, 208, 250);
+    margin-left: 60%;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight:600;
+}
+
+#text1{
+margin-left: 33%;
+font-size: 100px;
+font-family: 'Inter', sans-serif;
+font-weight:900;
+margin-top: 90px;
+padding: 20px;
+color:rgb(139, 208, 250);
+     -webkit-text-stroke: 2px rgb(8, 8, 8);
+      text-stroke: 1px rgb(5, 5, 5);
+}
+
+#text2{
+margin-left: 34.5%;
+margin-top: -100px;
+display:flex;
+font-family: 'Inter', sans-serif;
+font-weight:800;
+color:rgb(139, 208, 250);
+     -webkit-text-stroke: 2px rgb(8, 8, 8);
+      text-stroke: 1px rgb(5, 5, 5);
+}
+
+
+
+.botton{
+    display:block;
+    background-color:rgb(59, 19, 95);
+    width: 500px;
+    height:60px;
+    font: bold 18px ;
+    text-shadow: none;
+    border:none;
+    border-radius:10px;
+    margin-left: 425px;
+    font-family: 'Inter', sans-serif;
+    font-weight:100;
+    text-align: center;
+}
+
+.botton h2{
+    color: #fff;
+    font-family:'Inter', sans-serif;
+}
+
+
+.corpo-pagina h1{
+
+    color: rgb(231, 44, 44);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight:800;
+    margin-top: 140px;
+    font-size: 50px;
+}
+
+.img-teclogias-usadas{
+
+    display:inline-block;
+}
+
+#logo-css{
+    width: 50px;
+    height: 130px;
+    display:flex;
+    margin-top:-130px;  
+    margin-left: 750%;
+}
+
+#logo-html{
+        width: 50px;
+        height: 130px;
+        display:flex;
+        margin-top:-0px;  
+        margin-left: 1000%;
+}
+
+#logo-js{
+    width: 50px;
+    height: 130px;
+    display: flex;
+    margin-top:-126px;  
+    margin-left: 1250%;
+}
+
+#logoboot{
+    border: 0px;
+    width: 50px;
+    height: 130px;
+    display: flex;
+    margin-top:-126px;  
+    margin-left:1550%;
+}
+
+.perfil-usuario{
+    width: 300px;
+    height:300px;
+    display: flex;
+    border: 5px solid rgb(237, 110, 104);
+    border-radius: 50%;
+    margin-left: 38%;
+    margin-top: 90px;
+}
+
+.perfil-usuario img{
+    border-radius: 50%;
+}
+
+.perfil-usuario h1{
+    display:flex;
+    color: crimson;
+    margin-top:-150px;
+    margin-left: 50%;
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+    font-weight:600;
+}
+    
+
+#txt{
+   display: flexbox;
+   border-left: 100%;
+   color: rgb(237, 110, 104);
+   
+}
+
